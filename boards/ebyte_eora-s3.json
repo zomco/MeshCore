@@ -30,7 +30,7 @@
     "arduino",
     "espidf"
   ],
-  "name": "Ebyte EoRa-S3-XXXTB Radio",
+  "name": "Ebyte EoRa-S3-400TB/900TB Radio",
   "upload": {
     "flash_size": "4MB",
     "maximum_ram_size": 327680,
@@ -40,6 +40,6 @@
     "require_upload_port": true,
     "speed": 460800
   },
-  "url": "https://www.cdebyte.com/products/EoRa-S3-900TB",
+  "url": "https://www.cdebyte.com/products/EoRa-S3-400TB",
   "vendor": "Chengdu Ebyte Electronic Technology Co., Ltd"
 }
