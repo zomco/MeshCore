@@ -30,7 +30,7 @@
     "arduino",
     "espidf"
   ],
-  "name": "Ebyte EoRa-S3-400TB/900TB Radio",
+  "name": "Ebyte EoRa-S3 Radio",
   "upload": {
     "flash_size": "4MB",
     "maximum_ram_size": 327680,
